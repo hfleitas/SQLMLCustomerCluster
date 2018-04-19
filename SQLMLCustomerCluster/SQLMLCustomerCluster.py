@@ -63,7 +63,7 @@ def perform_clustering():
                                               connection_string=conn_str)
     
     # import data source and convert to pandas dataframe.
-    customer_data = pd.DataFrame(revoscalepy.rx_import(data_source))
+    customer_data = pd.DataFrame(revoscale.rx_import(data_source))
     print("Data frame:", customer_data.head(n=20))
 
     ################################################################################################
