@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SQLMLCustomerCluster", "SQLMLCustomerCluster\SQLMLCustomerCluster.pyproj", "{E83B8A6A-559E-4374-9760-F4E83C671797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83B8A6A-559E-4374-9760-F4E83C671797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83B8A6A-559E-4374-9760-F4E83C671797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3D8581-CED5-4E0A-932A-35104BD77F7C}
+	EndGlobalSection
+EndGlobal
